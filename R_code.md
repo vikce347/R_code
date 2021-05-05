@@ -1,4 +1,4 @@
-myCSVfile <- "C:/Users/vikto/Desktop/Bakalaurinis/MOD.csv" #žalų trikampio nuskaitymas iš failo
+    myCSVfile <- "C:/Users/vikto/Desktop/Bakalaurinis/MOD.csv" #žalų trikampio nuskaitymas iš failo
     dat <- read.csv(file=myCSVfile)
     library(ChainLadder)
     library(MonteCarlo)
